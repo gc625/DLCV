@@ -5,6 +5,6 @@ You can find the workshop material here:
 
 
 # Workshop 1 (Nov 14)
-[] Colab Notebook
-[] Slides
+- [x] Colab Notebook
+- [ ] Slides
 
