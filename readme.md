@@ -1,5 +1,5 @@
 # Deep Learning and Computer Vision
-series of workshops at Connecticut College
+series of workshops on deep learning and computer vision at Connecticut College with programming exercises.
 
 You can find the workshop material here:
 
