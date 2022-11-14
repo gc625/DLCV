@@ -7,5 +7,5 @@ You can find the workshop material here:
 # Workshop 1 (Nov 14)
 - [x] Colab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ws1.ipynb)
 - [x] Colab Notebook Solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ws1_sol.ipynb)
-- [ ] Slides
+- [x] Slides: [Uploaded to Google Drive](https://drive.google.com/file/d/1hZLiaKQGJvCh43zvRK9fOAY6GThVOfUW/view?usp=sharing)
 
