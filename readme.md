@@ -31,3 +31,11 @@ https://user-images.githubusercontent.com/29677319/201809963-9ada77b5-5ac7-4235-
 - [ ] Colab Notebook 
 - [ ] Colab Notebook Solutions
 - [ ] Slides
+
+
+
+
+---
+
+All materials were created by me unless stated otherwise
+
