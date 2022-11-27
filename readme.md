@@ -28,6 +28,12 @@ https://user-images.githubusercontent.com/29677319/201809963-9ada77b5-5ac7-4235-
 
 
 # Workshop 2 (Nov 28)
+Topics: Non-linearity, Actiation functions, Convolutional Neural Networks 
+
+## Resources
+[CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+
+
 - [ ] Colab Notebook 
 - [ ] Colab Notebook Solutions
 - [ ] Slides
