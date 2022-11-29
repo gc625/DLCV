@@ -34,9 +34,21 @@ Topics: Non-linearity, Actiation functions, Convolutional Neural Networks
 [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 
-- [ ] Colab Notebook 
-- [ ] Colab Notebook Solutions
-- [ ] Slides
+- [x] Colab Notebook 
+- [x] Colab Notebook Solutions
+- [x] Slides [Uploaded to Google Drive](https://drive.google.com/file/d/1uWEB2PU_DVx_2FOozcOydBF9WhA_8tq_/view?usp=share_link)
+
+
+## Animations
+Here are the animations from the slides, since they dont work in the uploaded pdf:
+
+### Why we can't stack linear layers:
+https://user-images.githubusercontent.com/29677319/204594504-09681185-9d9a-4ecc-ace6-06ec034f2f92.mp4
+
+### Stacking ReLUs:
+https://user-images.githubusercontent.com/29677319/204594594-0a062dfc-d175-414d-baa2-25980145cf3e.mp4
+
+
 
 
 
