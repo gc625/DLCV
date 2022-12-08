@@ -34,8 +34,8 @@ Topics: Non-linearity, Actiation functions, Convolutional Neural Networks
 [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 
-- [x] Colab Notebook 
-- [x] Colab Notebook Solutions
+- [x] Colab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ws2.ipynb)
+- [x] Colab Notebook Solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ws2_sol.ipynb)
 - [x] Slides [Uploaded to Google Drive](https://drive.google.com/file/d/1uWEB2PU_DVx_2FOozcOydBF9WhA_8tq_/view?usp=share_link)
 
 
